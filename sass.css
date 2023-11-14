@@ -1,0 +1,13 @@
+
+@media (max-width: 1200px){
+.block1 {
+  width: 10%;
+  height: 5%;
+}
+}
+@media (max-width: 1200px){
+.block2 {
+    width: 10%;
+    height: 5%;
+}
+}
